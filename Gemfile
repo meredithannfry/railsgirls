@@ -9,6 +9,8 @@ gem 'sqlite3'
 
 gem 'carrierwave'
 
+gem 'mini_magick'
+
 gem 'foreigner'
 
 # Gems used only for assets and not required
